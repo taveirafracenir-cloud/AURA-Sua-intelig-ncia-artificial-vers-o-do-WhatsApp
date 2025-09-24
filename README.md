@@ -13,13 +13,11 @@ Gerar código: Criar trechos de código em JavaScript para você, formatando-os 
 Compreender mídias: Analisar áudios e imagens que você envia, usando a inteligência artificial para transcrevê-los ou descrever o que eles mostram.
 
 ## Como Fazer a Conexão Inicial
-Para que a AURA possa começar a trabalhar, ela precisa ser conectada ao seu WhatsApp. Isso é feito apenas na primeira vez, através de um arquivo especial chamado QR.Code.
+Para que a AURA possa começar a trabalhar, ela precisa ser conectada ao seu WhatsApp. Isso é feito apenas na primeira vez
 
 Inicie o Programa: Quando você executar o programa da AURA, um arquivo chamado QR.Code será gerado. Ele contém um código QR único para sua conexão.
 
-Abra o WhatsApp no Seu Celular: Ivar e adicionar número aperte a opção de QR Code e leia o arquivo que tem o nome QR Code
-Use o QR Code: Aponte a câmera do seu celular para o arquivo QR.Code que está na tela do seu computador. O WhatsApp fará a conexão automaticamente e a AURA estará pronta para ser usada.
-
+Abra o WhatsApp no Seu Celular: E coloque  esse número 84 9999-2038 com o DDD 55+
 Como Interagir com a AURA
 Depois de conectada, a AURA está sempre online e pronta para responder. Aqui estão as principais formas de interação:
 
